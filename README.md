@@ -34,4 +34,7 @@ Run the commands from below in your vs-code project folder terminal.
 
 ### :octocat: Note:
 I made this website while learning Full-Stack Web Development and please feel free to suggest any changes. Thanks!
+<hr />
+<br />
 
+<div align="center">Don't forget to leave a star ⭐️</div>
