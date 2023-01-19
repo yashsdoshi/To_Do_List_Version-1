@@ -1,7 +1,7 @@
 # :octocat: `To-Do list` using `EJS`!
 
 Experience enhanced functionality and performance with [To-Do List Version 2](https://github.com/yashdoshi12/To-Do_List_Version-2), now incorporating MongoDB technology.
-
+<hr />
 This is a To-Do list website where user can add items in their To_Do List. The user can also add `work` list and add items in it.
 
 This is a simple website made using,
